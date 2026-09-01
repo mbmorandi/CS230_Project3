@@ -1,1 +1,24 @@
+How are project, 1, 2, 3, and 4 related?
+
+Project 1 asks us to attend a tech meeting off and on campus then write a report for both. 
+
+Project 2 asks us to examine a court case involving a tech company in conjecture with an ethical analysis
+
+Project 3 asks us to create a fake tech company and examine some of the issues that could arise from its creation
+
+Project 4 asks us to look at these issues and develop a plan for addressing the problems
+
+How are these things connected?
+
+Project 3
+Goal: You are going to apply your understanding of a real-world computer ethics case to help ethically develop a new/entrepreneurial tech concept. This will help you further understand how computing and social responsibility can be effectively demonstrated through :
+
+1. Predicting how social, political and economic institutions' interests can conflict.
+2. Development of ideas to prevent these conflicts.
+
+AI Generated Ideas for fake tech companies based on project 2:
+1. StudentShare - allow students to share notes, study guides, and other college related documents
+2. IndieStream - allow starting musicians to share work
+3. New P2P software that uses AI copyright checker
+4. 
 
